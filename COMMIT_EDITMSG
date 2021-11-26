@@ -1,14 +1,8 @@
-git commit --amendを追記
-
+master.htmlファイルを追加
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 #
-# Date:      Thu Nov 25 23:16:07 2021 +0900
-#
 # On branch master
-# Your branch is ahead of 'origin/master' by 1 commit.
-#   (use "git push" to publish your local commits)
-#
 # Changes to be committed:
-#	modified:   index.html
+#	new file:   master.html
 #
